@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\POS_ADBMS\obj\Debug\POS_ADBMS.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\POS_ADBMS\obj\Debug\POS_ADBMS.Properties.Resources.resources
+C:\Users\Admin\source\repos\POS_ADBMS\obj\Debug\POS_ADBMS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\POS_ADBMS\obj\Debug\POS_ADBMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\POS_ADBMS\bin\Debug\POS_ADBMS.exe.config
+C:\Users\Admin\source\repos\POS_ADBMS\bin\Debug\POS_ADBMS.exe
+C:\Users\Admin\source\repos\POS_ADBMS\bin\Debug\POS_ADBMS.pdb
+C:\Users\Admin\source\repos\POS_ADBMS\obj\Debug\POS_ADBMS.LOGIN.resources
+C:\Users\Admin\source\repos\POS_ADBMS\obj\Debug\POS_ADBMS.exe
+C:\Users\Admin\source\repos\POS_ADBMS\obj\Debug\POS_ADBMS.pdb
+C:\Users\Admin\source\repos\POS_ADBMS\obj\Debug\POS_ADBMS.PRODUCT_MANAGEMENT_SCREEN__2_.resources
+C:\Users\Admin\source\repos\POS_ADBMS\obj\Debug\POS_ADBMS.Customer_Mnagement__3_.resources
+C:\Users\Admin\source\repos\POS_ADBMS\obj\Debug\POS_ADBMS.SALES___PAYMENT_SCREEN__4_.resources
+C:\Users\Admin\source\repos\POS_ADBMS\obj\Debug\POS_ADBMS.INVENTARY__5_.resources
+C:\Users\Admin\source\repos\POS_ADBMS\obj\Debug\POS_ADBMS.REPORTS___6_.resources
