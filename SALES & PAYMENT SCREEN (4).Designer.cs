@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.NEXT = new System.Windows.Forms.Button();
+            this.BACK = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -40,12 +42,14 @@
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.button15 = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.CLEAR1 = new System.Windows.Forms.Button();
             this.panel4 = new System.Windows.Forms.Panel();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.dgvSales = new System.Windows.Forms.DataGridView();
             this.panel5 = new System.Windows.Forms.Panel();
+            this.label7 = new System.Windows.Forms.Label();
             this.radioButton3 = new System.Windows.Forms.RadioButton();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
@@ -56,8 +60,6 @@
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
-            this.BACK = new System.Windows.Forms.Button();
-            this.NEXT = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.panel3.SuspendLayout();
@@ -80,6 +82,32 @@
             this.panel1.Size = new System.Drawing.Size(843, 74);
             this.panel1.TabIndex = 1;
             // 
+            // NEXT
+            // 
+            this.NEXT.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(63)))), ((int)(((byte)(0)))));
+            this.NEXT.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.NEXT.ForeColor = System.Drawing.Color.White;
+            this.NEXT.Location = new System.Drawing.Point(753, 18);
+            this.NEXT.Name = "NEXT";
+            this.NEXT.Size = new System.Drawing.Size(60, 37);
+            this.NEXT.TabIndex = 46;
+            this.NEXT.Text = "Next";
+            this.NEXT.UseVisualStyleBackColor = false;
+            this.NEXT.Click += new System.EventHandler(this.NEXT_Click);
+            // 
+            // BACK
+            // 
+            this.BACK.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(63)))), ((int)(((byte)(0)))));
+            this.BACK.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BACK.ForeColor = System.Drawing.Color.White;
+            this.BACK.Location = new System.Drawing.Point(28, 18);
+            this.BACK.Name = "BACK";
+            this.BACK.Size = new System.Drawing.Size(58, 37);
+            this.BACK.TabIndex = 43;
+            this.BACK.Text = "BACK";
+            this.BACK.UseVisualStyleBackColor = false;
+            this.BACK.Click += new System.EventHandler(this.BACK_Click);
+            // 
             // panel2
             // 
             this.panel2.Location = new System.Drawing.Point(3, 80);
@@ -96,7 +124,6 @@
             this.label1.Size = new System.Drawing.Size(473, 37);
             this.label1.TabIndex = 0;
             this.label1.Text = "Sales and Payments Dashboard";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -116,7 +143,6 @@
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(214, 29);
             this.textBox4.TabIndex = 21;
-            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // label8
             // 
@@ -147,7 +173,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(214, 29);
             this.textBox1.TabIndex = 15;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label10
             // 
@@ -172,9 +197,9 @@
             this.button15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(63)))), ((int)(((byte)(0)))));
             this.button15.Font = new System.Drawing.Font("Cambria", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button15.ForeColor = System.Drawing.Color.White;
-            this.button15.Location = new System.Drawing.Point(94, 195);
+            this.button15.Location = new System.Drawing.Point(160, 192);
             this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(168, 53);
+            this.button15.Size = new System.Drawing.Size(168, 41);
             this.button15.TabIndex = 35;
             this.button15.Text = "Add to Cart";
             this.button15.UseVisualStyleBackColor = false;
@@ -182,6 +207,7 @@
             // 
             // panel3
             // 
+            this.panel3.Controls.Add(this.CLEAR1);
             this.panel3.Controls.Add(this.textBox1);
             this.panel3.Controls.Add(this.button15);
             this.panel3.Controls.Add(this.label2);
@@ -192,17 +218,30 @@
             this.panel3.Controls.Add(this.label8);
             this.panel3.Location = new System.Drawing.Point(6, 82);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(347, 251);
+            this.panel3.Size = new System.Drawing.Size(347, 239);
             this.panel3.TabIndex = 36;
+            // 
+            // CLEAR1
+            // 
+            this.CLEAR1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(63)))), ((int)(((byte)(0)))));
+            this.CLEAR1.Font = new System.Drawing.Font("Cambria", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CLEAR1.ForeColor = System.Drawing.Color.White;
+            this.CLEAR1.Location = new System.Drawing.Point(25, 193);
+            this.CLEAR1.Name = "CLEAR1";
+            this.CLEAR1.Size = new System.Drawing.Size(75, 40);
+            this.CLEAR1.TabIndex = 39;
+            this.CLEAR1.Text = "Clear";
+            this.CLEAR1.UseVisualStyleBackColor = false;
+            this.CLEAR1.Click += new System.EventHandler(this.CLEAR1_Click);
             // 
             // panel4
             // 
             this.panel4.Controls.Add(this.button2);
             this.panel4.Controls.Add(this.button1);
             this.panel4.Controls.Add(this.label3);
-            this.panel4.Location = new System.Drawing.Point(12, 339);
+            this.panel4.Location = new System.Drawing.Point(12, 327);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(341, 140);
+            this.panel4.Size = new System.Drawing.Size(341, 161);
             this.panel4.TabIndex = 37;
             // 
             // button2
@@ -210,11 +249,11 @@
             this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(63)))), ((int)(((byte)(0)))));
             this.button2.Font = new System.Drawing.Font("Cambria", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(176, 63);
+            this.button2.Location = new System.Drawing.Point(57, 27);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(146, 55);
+            this.button2.Size = new System.Drawing.Size(223, 55);
             this.button2.TabIndex = 37;
-            this.button2.Text = "Clear Cart";
+            this.button2.Text = "🚮 Remove Selected Item";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -223,11 +262,11 @@
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(63)))), ((int)(((byte)(0)))));
             this.button1.Font = new System.Drawing.Font("Cambria", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(22, 65);
+            this.button1.Location = new System.Drawing.Point(57, 88);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(141, 55);
+            this.button1.Size = new System.Drawing.Size(223, 58);
             this.button1.TabIndex = 36;
-            this.button1.Text = "Clear Fields";
+            this.button1.Text = "📝 Edit Selected Item";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -236,24 +275,24 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(63)))), ((int)(((byte)(0)))));
-            this.label3.Location = new System.Drawing.Point(3, 21);
+            this.label3.Location = new System.Drawing.Point(3, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(145, 24);
             this.label3.TabIndex = 15;
             this.label3.Text = "Quick Actions:";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // dgvSales
             // 
             this.dgvSales.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvSales.Location = new System.Drawing.Point(359, 105);
+            this.dgvSales.Location = new System.Drawing.Point(377, 105);
             this.dgvSales.Name = "dgvSales";
-            this.dgvSales.Size = new System.Drawing.Size(473, 210);
+            this.dgvSales.Size = new System.Drawing.Size(436, 210);
             this.dgvSales.TabIndex = 38;
             this.dgvSales.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvSales_CellContentClick);
             // 
             // panel5
             // 
+            this.panel5.Controls.Add(this.label7);
             this.panel5.Controls.Add(this.radioButton3);
             this.panel5.Controls.Add(this.radioButton2);
             this.panel5.Controls.Add(this.radioButton1);
@@ -263,7 +302,18 @@
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(203, 158);
             this.panel5.TabIndex = 39;
-            this.panel5.Paint += new System.Windows.Forms.PaintEventHandler(this.panel5_Paint);
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.BackColor = System.Drawing.Color.Khaki;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(63)))), ((int)(((byte)(0)))));
+            this.label7.Location = new System.Drawing.Point(19, 6);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(170, 24);
+            this.label7.TabIndex = 22;
+            this.label7.Text = "Total Amount:     ";
             // 
             // radioButton3
             // 
@@ -275,6 +325,7 @@
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "Online";
             this.radioButton3.UseVisualStyleBackColor = true;
+            this.radioButton3.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
             // 
             // radioButton2
             // 
@@ -298,6 +349,7 @@
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Cash";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // label4
             // 
@@ -316,12 +368,11 @@
             this.label5.BackColor = System.Drawing.Color.Khaki;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(63)))), ((int)(((byte)(0)))));
-            this.label5.Location = new System.Drawing.Point(12, 6);
+            this.label5.Location = new System.Drawing.Point(19, 30);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(182, 48);
+            this.label5.Size = new System.Drawing.Size(176, 24);
             this.label5.TabIndex = 17;
-            this.label5.Text = "Total Amount:\r\n                       0 rs\r\n";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
+            this.label5.Text = "                      0 rs\r\n";
             // 
             // panel6
             // 
@@ -342,8 +393,9 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(251, 48);
             this.button5.TabIndex = 40;
-            this.button5.Text = "Clear Cart";
+            this.button5.Text = "📋 Save Sale";
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button4
             // 
@@ -354,8 +406,9 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(251, 48);
             this.button4.TabIndex = 39;
-            this.button4.Text = "Generate Receipt";
+            this.button4.Text = "🧾 Generate Receipt";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button3
             // 
@@ -366,8 +419,9 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(251, 48);
             this.button3.TabIndex = 38;
-            this.button3.Text = "Process Payment";
+            this.button3.Text = "📩 Process Payment";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // label6
             // 
@@ -379,32 +433,6 @@
             this.label6.Size = new System.Drawing.Size(48, 20);
             this.label6.TabIndex = 41;
             this.label6.Text = "Cart:";
-            // 
-            // BACK
-            // 
-            this.BACK.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(63)))), ((int)(((byte)(0)))));
-            this.BACK.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BACK.ForeColor = System.Drawing.Color.White;
-            this.BACK.Location = new System.Drawing.Point(28, 18);
-            this.BACK.Name = "BACK";
-            this.BACK.Size = new System.Drawing.Size(58, 37);
-            this.BACK.TabIndex = 43;
-            this.BACK.Text = "BACK";
-            this.BACK.UseVisualStyleBackColor = false;
-            this.BACK.Click += new System.EventHandler(this.BACK_Click);
-            // 
-            // NEXT
-            // 
-            this.NEXT.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(63)))), ((int)(((byte)(0)))));
-            this.NEXT.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.NEXT.ForeColor = System.Drawing.Color.White;
-            this.NEXT.Location = new System.Drawing.Point(753, 18);
-            this.NEXT.Name = "NEXT";
-            this.NEXT.Size = new System.Drawing.Size(60, 37);
-            this.NEXT.TabIndex = 46;
-            this.NEXT.Text = "Next";
-            this.NEXT.UseVisualStyleBackColor = false;
-            this.NEXT.Click += new System.EventHandler(this.NEXT_Click);
             // 
             // SALES___PAYMENT_SCREEN__4_
             // 
@@ -469,5 +497,7 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Button BACK;
         private System.Windows.Forms.Button NEXT;
+        private System.Windows.Forms.Button CLEAR1;
+        private System.Windows.Forms.Label label7;
     }
 }

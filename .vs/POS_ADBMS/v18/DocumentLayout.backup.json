@@ -3,40 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|c:\\users\\admin\\source\\repos\\pos_adbms\\customer mnagement (3).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:customer mnagement (3).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|c:\\users\\admin\\source\\repos\\pos_adbms\\customer mnagement (3).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:customer mnagement (3).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|c:\\users\\admin\\source\\repos\\pos_adbms\\customer mnagement (3).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:customer mnagement (3).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|c:\\users\\admin\\source\\repos\\pos_adbms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|c:\\users\\admin\\source\\repos\\pos_adbms\\sales \u0026 payment screen (4).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:sales \u0026 payment screen (4).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|c:\\users\\admin\\source\\repos\\pos_adbms\\sales \u0026 payment screen (4).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:sales \u0026 payment screen (4).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|c:\\users\\admin\\source\\repos\\pos_adbms\\product management screen (2).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:product management screen (2).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\inventary (5).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:inventary (5).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\reports  (6).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|c:\\users\\admin\\source\\repos\\pos_adbms\\reports  (6).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:reports  (6).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\reports  (6).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:reports  (6).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\reports  (6).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:reports  (6).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\inventary (5).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:inventary (5).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\inventary (5).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:inventary (5).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\inventary (5).resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:inventary (5).resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\sales \u0026 payment screen (4).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:sales \u0026 payment screen (4).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\customer mnagement (3).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55CE87A6-A128-4AB6-83ED-C0C33415682A}|POS_ADBMS.csproj|solutionrelative:customer mnagement (3).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_P0HHAGK_SQLEXPRESS/FINAL_POS/True/SqlTable/dbo.Purchase_History.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_P0HHAGK_SQLEXPRESS/FINAL_POS/True/SqlTable/dbo.SalesReport.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,119 +52,135 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LOGIN.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\LOGIN.cs",
-              "RelativeDocumentMoniker": "LOGIN.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\LOGIN.cs [Design]",
-              "RelativeToolTip": "LOGIN.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T12:40:48.988Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Customer Mnagement (3).cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\Customer Mnagement (3).cs",
-              "RelativeDocumentMoniker": "Customer Mnagement (3).cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\Customer Mnagement (3).cs [Design]",
-              "RelativeToolTip": "Customer Mnagement (3).cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T08:51:11.264Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customer Mnagement (3).cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\Customer Mnagement (3).cs",
-              "RelativeDocumentMoniker": "Customer Mnagement (3).cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\Customer Mnagement (3).cs",
-              "RelativeToolTip": "Customer Mnagement (3).cs",
-              "ViewState": "AgIAAG4BAAAAAAAAAAAYwIwBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T08:52:35.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Customer Mnagement (3).Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\Customer Mnagement (3).Designer.cs",
-              "RelativeDocumentMoniker": "Customer Mnagement (3).Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\Customer Mnagement (3).Designer.cs",
-              "RelativeToolTip": "Customer Mnagement (3).Designer.cs",
-              "ViewState": "AgIAALgBAAAAAAAAAAAYwNYBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T09:20:42.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SALES \u0026 PAYMENT SCREEN (4).cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\SALES \u0026 PAYMENT SCREEN (4).cs",
-              "RelativeDocumentMoniker": "SALES \u0026 PAYMENT SCREEN (4).cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\SALES \u0026 PAYMENT SCREEN (4).cs [Design]",
-              "RelativeToolTip": "SALES \u0026 PAYMENT SCREEN (4).cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T08:57:19.868Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SALES \u0026 PAYMENT SCREEN (4).cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\SALES \u0026 PAYMENT SCREEN (4).cs",
-              "RelativeDocumentMoniker": "SALES \u0026 PAYMENT SCREEN (4).cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\SALES \u0026 PAYMENT SCREEN (4).cs",
-              "RelativeToolTip": "SALES \u0026 PAYMENT SCREEN (4).cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAIwDwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T08:57:24.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PRODUCT MANAGEMENT SCREEN (2).cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\PRODUCT MANAGEMENT SCREEN (2).cs",
-              "RelativeDocumentMoniker": "PRODUCT MANAGEMENT SCREEN (2).cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\PRODUCT MANAGEMENT SCREEN (2).cs [Design]",
-              "RelativeToolTip": "PRODUCT MANAGEMENT SCREEN (2).cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T08:50:38.427Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "INVENTARY (5).cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\INVENTARY (5).cs",
               "RelativeDocumentMoniker": "INVENTARY (5).cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\INVENTARY (5).cs [Design]",
               "RelativeToolTip": "INVENTARY (5).cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T12:32:57.47Z",
+              "WhenOpened": "2026-05-02T03:58:57.709Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "REPORTS  (6).cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\REPORTS  (6).cs",
               "RelativeDocumentMoniker": "REPORTS  (6).cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\REPORTS  (6).cs [Design]",
               "RelativeToolTip": "REPORTS  (6).cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T12:32:51.851Z",
+              "WhenOpened": "2026-05-01T13:27:18.147Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "REPORTS  (6).cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\REPORTS  (6).cs",
+              "RelativeDocumentMoniker": "REPORTS  (6).cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\REPORTS  (6).cs",
+              "RelativeToolTip": "REPORTS  (6).cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAqwDEBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T13:21:31.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "REPORTS  (6).Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\REPORTS  (6).Designer.cs",
+              "RelativeDocumentMoniker": "REPORTS  (6).Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\REPORTS  (6).Designer.cs",
+              "RelativeToolTip": "REPORTS  (6).Designer.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAswCUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:16:40.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INVENTARY (5).cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\INVENTARY (5).cs",
+              "RelativeDocumentMoniker": "INVENTARY (5).cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\INVENTARY (5).cs",
+              "RelativeToolTip": "INVENTARY (5).cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAgwD0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T05:02:04.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INVENTARY (5).resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\INVENTARY (5).resx",
+              "RelativeDocumentMoniker": "INVENTARY (5).resx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\INVENTARY (5).resx",
+              "RelativeToolTip": "INVENTARY (5).resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-02T04:55:54.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INVENTARY (5).Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\INVENTARY (5).Designer.cs",
+              "RelativeDocumentMoniker": "INVENTARY (5).Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\INVENTARY (5).Designer.cs",
+              "RelativeToolTip": "INVENTARY (5).Designer.cs",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAgwIoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T08:36:21.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SALES \u0026 PAYMENT SCREEN (4).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\SALES \u0026 PAYMENT SCREEN (4).cs",
+              "RelativeDocumentMoniker": "SALES \u0026 PAYMENT SCREEN (4).cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\SALES \u0026 PAYMENT SCREEN (4).cs [Design]",
+              "RelativeToolTip": "SALES \u0026 PAYMENT SCREEN (4).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:58:26.957Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer Mnagement (3).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\Customer Mnagement (3).cs",
+              "RelativeDocumentMoniker": "Customer Mnagement (3).cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_ADBMS\\Customer Mnagement (3).cs [Design]",
+              "RelativeToolTip": "Customer Mnagement (3).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:58:21.299Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Purchase_History.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_P0HHAGK_SQLEXPRESS/FINAL_POS/True/SqlTable/dbo.Purchase_History.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_P0HHAGK_SQLEXPRESS/FINAL_POS/True/SqlTable/dbo.Purchase_History.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-01T13:41:05.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.SalesReport.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_P0HHAGK_SQLEXPRESS/FINAL_POS/True/SqlTable/dbo.SalesReport.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_P0HHAGK_SQLEXPRESS/FINAL_POS/True/SqlTable/dbo.SalesReport.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-01T13:26:18.9Z"
             }
           ]
         }
